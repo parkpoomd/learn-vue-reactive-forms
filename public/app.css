@@ -1,0 +1,15 @@
+.info {
+  margin-top: 0.25rem;
+  color: #5c6162;
+  text-align: right;
+  font-weight: 500;
+  font-size: 0.875rem;
+}
+a {
+  color: #09848d;
+  text-decoration: none;
+}
+a:not(.btn):hover {
+  color: #127077;
+  text-decoration: underline;
+}
